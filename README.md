@@ -1,16 +1,27 @@
-## Hi there 👋
+# Amruth
 
-<!--
-**amruth-charmana/amruth-charmana** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+3x founder · 14+ years building products · VP Product Management, FinTech
 
-Here are some ideas to get you started:
+I ship AI systems in the open here — not slide decks about AI, working code.
+Each repo below is a self-contained pattern I've actually used, with the
+architecture, the code, and what broke while building it.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**More context:** [amruth.space](https://amruth.space) · [LinkedIn](https://linkedin.com/in/1amruth)
+
+---
+
+### 🧪 Shipped
+
+| Repo | Pattern it demonstrates |
+|---|---|
+| [prd-chain](https://github.com/amruth-charmana/prd-chain) | Multi-stage prompt chaining with an independent, blind scoring pass that catches hallucinated requirements |
+
+*More shipping on an alternate-day cadence — this table grows as each one goes live, not before.*
+
+---
+
+### How I build
+
+Every repo here follows the same standard: a real architecture diagram,
+runnable code, a committed example, and a `LEARNINGS.md` documenting what
+actually broke. No filler repos, no tutorials-with-a-new-coat-of-paint.
