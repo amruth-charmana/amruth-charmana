@@ -135,7 +135,22 @@ Raised $2.3M, shipped 9 products, led 3 to acquisition by strategic buyers at ~2
 
 ## Education & certifications
 
-`IIM Indore` — PG Certificate, Product Management · `VTU` — B.E. Electronics & Communications · `SAFe® 6.0 POPM` · `IBM AI Product Manager Professional Certificate`
+
+`IIM Indore` — Postgraduate, Product Management 
+`VTU` — B.E. Electronics & Communications 
+`SAFe® 6.0 POPM` 
+`IBM AI Product Manager Professional Certificate`
+
+• Indian Institute of Management [ IIM Indore ]
+Post Graduate in Product Management
+
+• Visvesvaraya Technological University [ VTU ]
+Bachelor of Engineering in Electronics & Communications
+
+• SAFe® 6.0 POPM - Certified Product Manager [ SAFe® ]
+• IBM AI Product Manager Professional Certificate [ IBM ]
+
+
 
 ---
 
