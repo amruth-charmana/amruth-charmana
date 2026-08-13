@@ -81,6 +81,8 @@ The AI KYC and underwriting systems I've shipped in production banking environme
 | Repo | Pattern it demonstrates |
 |---|---|
 | [`prd-chain`](https://github.com/amruth-charmana/prd-chain) | Three-stage LLM prompt chain — extract, expand, and an independent *blind* scoring pass that catches hallucinated acceptance criteria before they reach an engineering team |
+| [`usage-signal-chain`](https://github.com/amruth-charmana/usage-signal-chain) · [live](https://usage-signal-chain.vercel.app) | Deterministic rules-engine scoring (PQL, expansion, churn risk) computed independently of the LLM; Claude narrates only what's already been calculated — same blind-verification pattern as `prd-chain` |
+| [`call-signal-chain`](https://github.com/amruth-charmana/call-signal-chain) · [live](https://call-signal-chain.vercel.app) | Extract, verify, then narrate — every extracted signal carries a verbatim quote, independently checked against the transcript by plain code (zero LLM calls) before Claude ever drafts a summary from it |
 
 ## 🔧 Building next
 
@@ -88,8 +90,6 @@ The AI KYC and underwriting systems I've shipped in production banking environme
 
 | Working pattern | What it demonstrates |
 |---|---|
-| PLG analytics over raw usage data | Agentic narrative generation — computes cohorts and churn signals, then explains what to do about them in plain English |
-| CRM relationship intelligence | Parallel, independent LLM passes over a sales transcript — churn signal, champion ID, and drafted follow-up run simultaneously, not chained |
 | Agentic underwriting copilot | Blind-scoring credit decision support — income extraction and groundedness verification run as separate passes that can't see each other's reasoning, human makes the final call |
 | Hybrid RAG with guardrails | Multimodal ingestion (PDF, scanned image, spreadsheet) with an independent groundedness-scoring pass and a public red-team failure log |
 | Open-source AI PM playbook | 17-chapter practitioner guide on shipping AI in regulated, production environments — written from what actually broke, not from tutorials |
