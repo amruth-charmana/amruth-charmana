@@ -128,7 +128,7 @@ Raised $2.3M, shipped 9 products, led 3 to acquisition by strategic buyers at ~2
 - [Economic Times](https://economictimes.indiatimes.com/small-biz/money/enkast-bags-2mln-from-ivy-league-network/articleshow/56133176.cms) — funding coverage
 - [Times of India](https://timesofindia.indiatimes.com/city/bengaluru/good-hearted-souls-get-students-to-pledge-organs/articleshow/17802071.cms) & [Bangalore Mirror](https://bangaloremirror.indiatimes.com/bangalore/others/trio-rope-in-1k-students-to-donate-organs/articleshow/21287716.cms) — NGO organ-donor registration drive, 8,000+ registrations
 - [Namma Bengaluru Award](https://www.nammabengaluruawards.org/portfolio/mr-eshwar-mahadevan-mr-v-subhash-chandra-mr-amruth-charmana/) — recognized out of 11,000 nominations
-- [Dell India, official](https://x.com/Dell_IN/status/1163110805388312578) — Futurist Program panel mentorship
+- [Dell India, official](https://drive.google.com/file/d/1XqTo4aZNczkiZNP7LVQpQGxybMvDHCPx/view?usp=sharing) — Nationwide Dell Futurist Program Tech panel head (interview)
 - [YourStory](https://yourstory.com/2021/03/learnings-pandemic-road-ahead-entrepreneurs-ecosystem) — founder perspective piece
 
 ---
